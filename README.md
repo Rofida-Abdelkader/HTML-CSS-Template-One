@@ -47,3 +47,7 @@ git clone https://github.com/Rofida-Abdelkader/HTML-CSS-Template-One.git
 ## License
 
 This project is open source and available under the [MIT License](LICENSE). 
+
+## Live Demo
+
+Check out the live version of this template: [Leon Template One Live Demo](https://rofida-abdelkader.github.io/HTML-CSS-Template-One/)
